@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d97f078a-6e6a-471b-ab48-5b052240e2b7)# NCL-BetterChinaMapdata
+# NCL-BetterChinaMapdata
 
 **精确绘制中国地图 | 国界/省界修正 | 高效MASK**
 
